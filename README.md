@@ -3,7 +3,7 @@
 * Currently I'm working as an intern in Kumsaati software.
 * I've been using linux since 2017
 
-* 💻 [archlinux](https://archlinux.org/) / [bspwm](https://github.com/baskerville/bspwm) / [neovim](https://neovim.io/) / [qutebrowser](https://qutebrowser.org/)
+* 💻 [gentoo](https://gentoo.org) / [bspwm](https://github.com/baskerville/bspwm) / [neovim](https://neovim.io/) / [qutebrowser](https://qutebrowser.org/)
 
 ## Things I'm interested in
 * Server Management
